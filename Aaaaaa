@@ -24,9 +24,9 @@ if game:GetService("CoreGui"):FindFirstChild("KING HUB") then
 
 end
 
-local UILib = loadstring(game:HttpGet('https://pastebin.com/raw/rmqhJWxq'))();
+local UILib = loadstring(game:HttpGet("https://raw.githubusercontent.com/morkocemirtr/-imilakimutnazeeeee/main/Bok"))();
 
-local notifications = loadstring(game:HttpGet(("https://pastebin.com/raw/CcenX7YB"),true))()
+local notifications = loadstring(game:HttpGet(("https://raw.githubusercontent.com/morkocemirtr/Denemenindenemesinindenemesi/main/Denme"),true))()
 
 local win = UILib:Window("KING HUB | Doors [Beta]",Color3.fromRGB(102, 255, 153), Enum.KeyCode.RightControl)
 
